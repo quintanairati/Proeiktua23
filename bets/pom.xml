@@ -66,6 +66,10 @@
 		<sonar.projectKey>proiektua23</sonar.projectKey>
 		<sonar.login>d1c40e26084a89e54d2dfbf06c9834ab6c2ad57a</sonar.login>
 	</properties>
+	<properties>
+  		<sonar.organization>quintanairati</sonar.organization>
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
 		<dependency>
